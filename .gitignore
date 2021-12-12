@@ -2,4 +2,6 @@
 .classpath
 build
 .settings
+.gitignore
+
 
